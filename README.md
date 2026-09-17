@@ -1,2 +1,6 @@
-# Summer research project at Oxford Astrophysics (2024)
-Paper now available at https://arxiv.org/abs/2508.03569
+# Renzo’s rule revisited: a statistical study of galaxies’ baryon–dark matter coupling
+
+Abstract:
+We present a systematic statistical analysis of an informal astrophysical phenomenon known as Renzo’s rule (or Sancisi’s law), which states that ‘for any feature in a galaxy’s luminosity profile, there is a corresponding feature in the rotation curve, and vice versa’. This is often posed as a challenge for the standard Λ cold dark matter (⁠LCDM) model while supporting alternative theories such as modified Newtonian dynamics (MOND). Indeed, we identify clear features in the dwarf spiral NGC 1560 – a prime example for Renzo’s rule – and find correlation statistics which support Renzo’s rule with a slight preference for MOND over LCDM halo fits. However, a broader analysis on galaxies in the Spitzer Photometry & Accurate Rotation Curves (SPARC) data base reveals an excess of features in rotation curves that lack clear baryonic counterparts, with correlation statistics deviating up to 3 sigma on average from that predicted by both MOND and LCDM haloes, challenging the validity of Renzo’s rule. Thus we do not find clear evidence for Renzo’s rule in present galaxy data overall. We additionally perform mock tests, which show that a definitive test of Renzo’s rule is primarily limited by the lack of clearly resolved baryonic features in current galaxy data.
+
+Paper now published in MNRAS: https://doi.org/10.1093/mnras/staf2004
